@@ -1,13 +1,5 @@
 # pomodoro-app
 
-# Watch the tutorial video
-
-[Let's Build a Pomodoro Web App for Data Science | Streamlit #15)](https://youtu.be/9a234-OvbIQ)
-
-<a href="https://youtu.be/9a234-OvbIQ"><img src="http://img.youtube.com/vi/9a234-OvbIQ/0.jpg" alt="Let's Build a Pomodoro Web App for Data Science | Streamlit #15" title="Let's Build a Pomodoro Web App for Data Science | Streamlit #15" width="400" /></a>
-
-:star:
-
 # Demo
 
 Launch the web app:
